@@ -1,0 +1,8 @@
+class thanush{
+public static void main(String [] args){
+String s="hello";
+char [] a= s.toString();
+system.out.println(a.toString());
+}
+}
+}
